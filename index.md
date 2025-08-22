@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
---- # Welcome to My Portfolio Hello! My name is Diego Mallet Garcia.
+--- # Welcome to My Portfolio Hello! My name is DM.
 ## Projects
 - Project 1: Description
 - Project 2: Description
